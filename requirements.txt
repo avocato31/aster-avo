@@ -1,0 +1,7 @@
+python-dotenv>=1.0,<2
+aiohttp>=3.9,<4
+pytz>=2024.1
+requests>=2.32,<3
+web3>=7.5,<8
+eth-account>=0.13,<0.14
+eth-abi>=5.1,<6
